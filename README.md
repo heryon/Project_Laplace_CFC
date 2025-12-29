@@ -107,6 +107,11 @@ onde \(Z\) é a função de partição.
 
 ## 3. Definição Formal da Curva Finita Central
 
+
+<p align="center">
+  <img src="https://github.com/heryon/Project_Laplace/blob/5a8abe5a44fe8b6636a31415d6cacfec412ca474/Central_Finite_Curve.png" width=400 height=500 alt="Central Finite Curve"/>
+</p>
+
 A Curva Finita Central pode ser definida formalmente como um objeto geométrico emergente inscrito em uma variedade estatística riemanniana, construída a partir do conjunto de distribuições de probabilidade que maximizam a entropia sob um conjunto finito de restrições conservativas e uma medida invariante associada ao sistema físico considerado.
 
 Considere um sistema físico descrito não diretamente por suas variáveis microscópicas, mas pelo espaço de todas as distribuições de probabilidade compatíveis com as informações disponíveis. Esse espaço forma uma variedade diferenciável, cujos pontos representam estados inferenciais possíveis do sistema. Sobre essa variedade é introduzida uma métrica natural, dada pela métrica de Fisher, que quantifica a distinção estatística infinitesimal entre distribuições vizinhas e confere ao espaço uma estrutura riemanniana bem definida.
