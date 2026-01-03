@@ -1,7 +1,7 @@
 # Projeto Laplace: Curva Finita Central 
 
 <p align="center">
-  <img src="https://github.com/heryon/Project_Laplace/blob/5a8abe5a44fe8b6636a31415d6cacfec412ca474/Central_Finite_Curve.png" width=400 height=500 alt="Central Finite Curve"/>
+  <img src="https://github.com/heryon/Project_Laplace/blob/3cea1d0224ba5b6b63dc3b3060687abbb804aeae/Central_Finite_Curve_2.png"  alt="Central Finite Curve"/>
 </p>
 
 ## Resumo
